@@ -1,3 +1,9 @@
+# Laravel-Articles
+
+Simple Laravel app made for testing CRUD functionality with Postman.
+
+Set up your environment(Apache, mySQL, PHP) with Laragon. In the code, edit .env file to provide info about your database.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
